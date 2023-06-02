@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Doa+Recife</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="remember">Remember</string>
+    <string name="login">Login</string>
+    <string name="textoExemplo">Your points: </string>
+    <string name="msgError">User error</string>
+    <string name="welcomeMSG">Welcome:</string>
+    <string name="title_activity_item_detail_host">ItemDetailHostActivity</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="store">Use your points</string>
+    <string name="user_points">3000</string>
+    <string name="register">Register</string>
+    <string name="your_points">Your points:</string>
+    <string name="buy">BUY</string>
+    <string name="item_name">Item name</string>
+    <string name="item_price">Item Price</string>
+    <string name="item_register">Register</string>
+    <string name="title_register_item">Item Register</string>
+</resources>
